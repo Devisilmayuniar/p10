@@ -163,13 +163,13 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 **Kemudian untuk file **Main Script** nya sendiri saya menggunakan source code sebagai berikut :**
 
 <div align="center">
-<img src="foto/main.png" >
+<img src="foto/main.PNG" >
 </div> <br>
 
 
 **Kemudian setelah 2 file tersebut dibuat, lalu kita run. Maka akan menghasilkan output sebagai berikut:**
 <div align="center">
-<img src="foto/hasil.png" >
+<img src="foto/hasil.PNG" >
 </div> <br>
 
 **Dan disitu kita punya 6 opsi:** <br>
