@@ -11,7 +11,7 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 **Berikut ini tugas yang diberikan oleh dosen saya :** <br>
 
 <div align="center">
-<img src="foto/tugas.png" >
+<img src="foto/tugas.PNG" >
 </div> <br>
 
 Untuk membuat task diatas saya dengan source code sebagai berikut: <br>
@@ -155,7 +155,7 @@ def show():
 Kemudian kita *save* di folder sendiri, disini saya menyimpan file **Data** kedalam folder **Data** dan saya simpan dengan file name *book*. <br>
 
 <div align="center">
-<img src="foto/data1.png" >
+<img src="foto/data1.PNG" >
 </div> <br>
 
 Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di run di file **Main Script**.
@@ -184,7 +184,7 @@ Source Code diatas berfungi sebagai berbagai *action syntax* yang nanti akan di 
 Mari kita coba opsi T (Tambah) dari source code **Book** diatas, maka output yang keluar adalah sebagai berikut : <br>
 
 <div align="center">
-<img src="foto/tambah.png" >
+<img src="foto/tambah.PNG" >
 </div> <br>
 
 Berjalan sesuai dengan yang kita inginkan. <br>
@@ -193,14 +193,14 @@ Berjalan sesuai dengan yang kita inginkan. <br>
 **Sekarang kita akan mencoba opsi **Ubah**:** <br>
 
 <div align="center">
-<img src="foto/ubah.png" >
+<img src="foto/ubah.PNG" >
 </div> <br>
 
 Data **Kelas** dari table sebelumnya berhasil kita ubah dengan opsi **Ubah**, Selanjutkan kita akan mencoba opsi **Hapus** : <br>
 Berikut tampilan dari menu **Hapus** : <br>
 
 <div align="center">
-<img src="foto/hapus.png" > 
+<img src="foto/hapus.PNG" > 
 </div> <br>
 <br>
 
